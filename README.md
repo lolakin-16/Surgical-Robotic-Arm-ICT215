@@ -32,6 +32,8 @@ This project implements a **4-DOF (Degree of Freedom) Robotic Arm** designed to 
     * Click the folder icon and select the `surgical_arm_code.ino.hex` file included in this repo.
 4.  **Run:** Press the Play button in Proteus.
 5.  **Interact:** Open the **Virtual Terminal** and type `SCALPEL` to see the arm move.
+6.  ## 📸 Circuit Diagram
+![Final Circuit Diagram](circuit_diagram.png)
 
 ---
 *© 2026 Group 2 BME. All Rights Reserved.*
