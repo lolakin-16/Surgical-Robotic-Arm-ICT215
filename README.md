@@ -35,5 +35,6 @@ This project implements a **4-DOF (Degree of Freedom) Robotic Arm** designed to 
 6.  ## 📸 Circuit Diagram
 ![Final Circuit Diagram](circuit_diagram.png)
 
+
 ---
 *© 2026 Group 2 BME. All Rights Reserved.*
