@@ -1,4 +1,4 @@
-# Voice-Controlled Surgical Robotic Arm 🤖
+# Traditional Surgical Robotic Arm 🤖
 **Project for ICT215: Robotics and Embedded Systems**
 **Department of Biomedical Engineering, Bells University of Technology**
 
